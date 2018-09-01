@@ -1,4 +1,4 @@
-# I2C-Sensor-Interface 
+# I2C Sensor Interface 
 The library simplifies work with the Arduino Wire library. Talk to the device using methods that only use the device address, registry and/or value.
  
 ## Example 
